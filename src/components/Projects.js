@@ -11,33 +11,33 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Airbnb Clone",
+      description: "This is a full stack react website inspired by airbnb, I have decided to build a replica of the airbnb webiste.",
       imgUrl: projImg1,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Twitter Clone",
+      description: "This is a full stack react website inspired by twitter, I have decided to build a replica of the twitter webiste.",
       imgUrl: projImg2,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Online Book Store",
+      description: "To save costs for purchasing of university textbooks. I have built an online book store for students to purchase pdf textbooks.",
       imgUrl: projImg3,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Airbnb Clone",
+      description: "This is a full stack react website inspired by airbnb, I have decided to build a replica of the airbnb webiste.",
       imgUrl: projImg1,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Twitter Clone",
+      description: "This is a full stack react website inspired by twitter, I have decided to build a replica of the twitter webiste.",
       imgUrl: projImg2,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Online Book Store",
+      description: "To save costs for purchasing of university textbooks. I have built an online book store for students to purchase pdf textbooks.",
       imgUrl: projImg3,
     },
   ];
@@ -80,10 +80,10 @@ export const Projects = () => {
                       </Row>
                     </Tab.Pane>
                     <Tab.Pane eventKey="section">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
+                      <p>This portfolio is frequently being updated and work on. PS: Not all projects will be uploaded on my portfolio, therefore check out my github account for all projects.</p>
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
+                      <p>This portfolio is frequently being updated and work on. PS: Not all projects will be uploaded on my portfolio, therefore check out my github account for all projects.</p>
                     </Tab.Pane>
                   </Tab.Content>
                 </Tab.Container>
