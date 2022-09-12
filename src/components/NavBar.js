@@ -48,7 +48,7 @@ export const NavBar = () => {
               <a href='https://github.com/CodesByDine/'><img src={navIcon2} alt=''/></a>
               <a href='https://discord.com/CodesByDine/'><img src={navIcon3} alt=''/></a>
             </div>
-            <button className='vvd'onClick={() => console.log('connect')}><span>Let's Connect</span></button>
+            <button className='vvd'onClick={() => console.log('connect')}><span href='../assets/img/Geraldine-CV.pdf' download='Geraldine-CV.pdf'>Download Resume</span></button>
           </span>
         </Navbar.Collapse>
       </Container>
