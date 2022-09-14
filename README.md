@@ -9,7 +9,7 @@ I have created a Portfolio website that will showcase my skills as a web develop
 Clone the repo onto your local machine
 
 ```bash
-  cd airbnb-clone
+  cd portfolio
   npm start
 ```
     
