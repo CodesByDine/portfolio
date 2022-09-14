@@ -4,6 +4,7 @@ import logo from '../assets/img/logo.svg'
 import navIcon1 from '../assets/img/nav-icon1.svg'
 import navIcon2 from '../assets/img/nav-icon2.svg'
 import navIcon3 from '../assets/img/nav-icon3.svg'
+import cv from '../assets/img/Geraldine-CV.pdf'
 
 export const NavBar = () => {
   const [activeLink, setActiveLink] = useState('home')
@@ -48,7 +49,7 @@ export const NavBar = () => {
               <a href='https://github.com/CodesByDine/'><img src={navIcon2} alt=''/></a>
               <a href='https://discord.com/CodesByDine/'><img src={navIcon3} alt=''/></a>
             </div>
-            <button className='vvd'onClick={() => console.log('connect')}><span href='../assets/img/Geraldine-CV.pdf' download='Geraldine-CV.pdf'>Download Resume</span></button>
+            <button className='vvd'onClick={() => console.log('connect')}><span><a href={cv} download={cv}>Download Resume</a></span></button>
           </span>
         </Navbar.Collapse>
       </Container>
