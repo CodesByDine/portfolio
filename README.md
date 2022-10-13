@@ -13,7 +13,7 @@ Clone the repo onto your local machine
   npm start
 ```
     
-## Demo
+## Live
 
 https://codesbydine.netlify.app/
 
